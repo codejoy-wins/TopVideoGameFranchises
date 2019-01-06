@@ -1,0 +1,25 @@
+#rapper{
+    margin: 0 auto;
+    font-family: 'Karla', sans-serif;
+    /* font-family: 'Karla', sans-serif; */
+
+}
+#navbar{
+    height:6rem;
+    background-color: rgba(61, 6, 6, 0.253);
+}
+#target{
+    height: 18rem;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 4rem;
+    font-size: 5rem;
+}
+
+#goodbye{
+    height: 18rem;
+    background-color: greenyellow;
+    text-align: center;
+    padding: 4rem;
+    font-size: 5rem;
+}
